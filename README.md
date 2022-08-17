@@ -1,6 +1,11 @@
 # data-dimensions
 
-data-dimensions
+The following are examples of data dimensions for adminsitrative control of a cloud service. We need to break this up into things like:
+
+1. Attacker/Defender/Administrator/User/etc views
+2. How is it measured? Yes/No/List of items/free form/etc?
+3. Grouping and splitting them up a bit to get major categories (e.g. Logging vs Reporting)
+4. Determining how much they matter, and which depend on each other (does this matter?)
 
 ## 2FA/MFA
 
