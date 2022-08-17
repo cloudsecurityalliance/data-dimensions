@@ -30,3 +30,13 @@ Logging of 2FA/MFA changes (registration/removal/etc)
 ### Recovery process
 Recovery codes?
 Recovery by email/phone/social ID?
+
+## Logging
+
+Most cloud vendors log, but not all make raw logs or processed logs available, or some may only do so at various price points (e.g. "Enterprise" accounts)
+
+Are raw logs available?
+Length of log retention?
+Can logs be easily downloaded? Multiple clicks/etc?
+Is there an API for log access?
+Are there documents for the log data and format? Can you do mappings of e.g. user-id to the account name/email address?
